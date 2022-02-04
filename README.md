@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @3015002
+- 👋 Hi, I’m COOL3163
 - 👀 I’m interested in Python and making Dicord bots
 - 🌱 I’m currently learning Python and HTML
-- 💞️ I’m looking to collaborate on my Hello Bot Discord bot
 - 📫 How to reach me : 3015002@student.isf.edu.hk
+
+Als0, I AM PRO!!!!!!!!!!!!!
 
 <!---
 3015002/3015002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
