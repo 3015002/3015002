@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and HTML
 - 📫 How to reach me : 3015002@student.isf.edu.hk
 
-Also, I AM PRO!!!!!!!!!!!!!
+AM PRO
 
 <!---
 3015002/3015002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
